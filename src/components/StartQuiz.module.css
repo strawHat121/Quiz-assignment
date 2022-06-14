@@ -1,0 +1,12 @@
+.InputDiv{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+
+.Form{
+    height: 100%;
+    width: 100%;
+    padding: 100px;
+}
